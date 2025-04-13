@@ -1,6 +1,6 @@
 # Arshad's Portfolio
 
-A modern, responsive portfolio website built with React, TypeScript, and Tailwind CSS. This portfolio showcases my skills, projects, and professional experience as a Backend Developer.
+A modern, responsive portfolio website built with React, TypeScript, and Tailwind CSS. 
 
 ## 🚀 Features
 
@@ -10,13 +10,6 @@ A modern, responsive portfolio website built with React, TypeScript, and Tailwin
 - **Performance Optimized**: Fast loading times and optimized assets
 - **SEO Friendly**: Proper meta tags and semantic HTML structure
 
-## 🛠️ Tech Stack
-
-- **Frontend**: React, TypeScript
-- **Styling**: Tailwind CSS
-- **Animations**: Framer Motion
-- **Icons**: Heroicons
-- **Deployment**: Vercel/Netlify
 
 ## 📦 Installation
 
@@ -79,15 +72,6 @@ Custom fonts can be added in `index.css`:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📞 Contact
-
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourusername)
-- Email: your.email@example.com
 
 ## 🙏 Acknowledgments
 
